@@ -1,5 +1,3 @@
-# enjoy-with-python
-
 Pre requisites :
 
 - File should be present in the same directory in which you are executing your code.
